@@ -1,0 +1,14 @@
+this mod make any weapon can now damage Town NPCs From vanilla and mods
+
+useful for farming items that drop only Town NPCs
+
+mod have ingame config:
+enable and disable projectiles damage to  Town npcs
+enable and disable Items damage to Town npcs
+
+Credit
+AVARITIA - for mod name 
+
+v0.4
+- added mod icon
+-improved ingame config - now u can toggle if only projectiles or items or both can damage town npcs
