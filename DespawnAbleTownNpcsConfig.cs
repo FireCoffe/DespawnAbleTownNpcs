@@ -29,12 +29,12 @@ namespace DespawnAbleTownNpcs
 
 		[Header("Town NPCs")] 
 		[Label("Town NPCs Items damage")]
-		[Tooltip(" on = Items will dont damage Town NPCs , off =  items will damage Town NPCs")]
+		[Tooltip("on = Items will dont damage Town NPCs , off =  Items will damage Town NPCs")]
 		[ReloadRequired]
 		public bool TownI { get; set; }
 
 		[Label("Town NPCs Projectiles damage")]
-		[Tooltip(" on = projectiles will dont damage Town NPCs , off =  projectile will damage Town NPCs")]
+		[Tooltip("on = Projectiles will dont damage Town NPCs , off =  Projectiles will damage Town NPCs")]
 		[ReloadRequired]
 		public bool TownP { get; set; }
 

@@ -1,6 +1,6 @@
 displayName = DamageAble Town NPCs
 author = IceCoffe (SolariumTea)
-version = 0.4
+version = 0.5
 hideCode = true
 hideResources = true
 homepage = https://forums.terraria.org/index.php?threads/damageable-town-npcs.93612/

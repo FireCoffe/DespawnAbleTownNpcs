@@ -12,3 +12,5 @@ AVARITIA - for mod name
 v0.4
 - added mod icon
 -improved ingame config - now u can toggle if only projectiles or items or both can damage town npcs
+v0.5
+-minor grammar fixes in ingame config
