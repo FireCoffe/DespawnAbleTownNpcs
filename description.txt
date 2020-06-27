@@ -14,3 +14,6 @@ v0.4
 -improved ingame config - now u can toggle if only projectiles or items or both can damage town npcs
 v0.5
 -minor grammar fixes in ingame config
+v1.0
+-fixed minor things
+- mod icon fixed
