@@ -4,3 +4,4 @@ version = 1.0
 hideCode = true
 hideResources = true
 homepage = https://forums.terraria.org/index.php?threads/damageable-town-npcs.93612/
+buildIgnore = vs/*, *.csproj, *.sln, *.pidb, *.userprefs, *.user, obj/*, bin/*

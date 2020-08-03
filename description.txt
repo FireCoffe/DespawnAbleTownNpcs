@@ -9,11 +9,8 @@ enable and disable Items damage to Town npcs
 Credit
 AVARITIA - for mod name 
 
-v0.4
-- added mod icon
--improved ingame config - now u can toggle if only projectiles or items or both can damage town npcs
-v0.5
--minor grammar fixes in ingame config
 v1.0
--fixed minor things
-- mod icon fixed
+bug fix update
+
+-fixed incorrect values of true and false in mod config
+- config now look better

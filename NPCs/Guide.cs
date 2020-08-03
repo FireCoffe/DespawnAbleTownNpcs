@@ -14,7 +14,7 @@ namespace DespawnAbleTownNpcs.NPCs
 	{
 		public override bool Autoload(ref string name)
 		{
-			return !GetInstance<DespawnAbleTownNpcsConfigServer>().TownI;
+			return !GetInstance<DespawnAbleTownNpcsConfigServer>().TownI == false;
 		}
 		public override bool? CanBeHitByItem(NPC npc, Player player, Item item) //make friendly npc killable
 		{

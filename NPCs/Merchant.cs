@@ -14,7 +14,7 @@ namespace DespawnAbleTownNpcs.NPCs
 	{
 		public override bool Autoload(ref string name)
 		{
-			return !GetInstance<DespawnAbleTownNpcsConfigServer>().TownP;
+			return !GetInstance<DespawnAbleTownNpcsConfigServer>().TownP == false;
 		}
 
 		public override bool? CanBeHitByProjectile(NPC npc, Projectile projectile) //does same but with projectiles
